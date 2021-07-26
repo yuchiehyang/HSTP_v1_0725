@@ -27,9 +27,7 @@
     <loaded-nodes>
       <connection connection-id="95363f5f-ab1c-4506-9843-285a1167febc">
         <schema name="hstp" object-types="table, view, procedure, function, constraint, index, column, dataset trigger" />
-        <schema name="information_schema" object-types="table, view, procedure, function" />
-        <schema name="mysql" object-types="table, view, procedure, function" />
-        <schema name="performance_schema" object-types="table, view, procedure, function, constraint, index, column, dataset trigger" />
+        <schema name="performance_schema" object-types="table, view" />
       </connection>
     </loaded-nodes>
   </component>
